@@ -1,0 +1,28 @@
+{
+    "quiz": [
+      {
+        "que": "¿Quién fue el campeón del mundial de Argentina 1978?",
+        "ca": "Argentina",
+        "ia": [
+          "Holanda",
+          "Brasil"
+        ]
+      },
+      {
+        "que": "¿Cuándo se realizó el primer torneo de la copa del mundo?",
+        "ca": "1930",
+        "ia": [
+          "1928",
+          "1935"
+        ]
+      },
+      {
+        "que": "¿En qué año NO se jugó la copa?",
+        "ca": "1942",
+        "ia": [
+          "1944",
+          "1948"
+        ]
+      }
+    ]
+}

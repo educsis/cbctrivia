@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trivia>
+ <quiz>
+  <que>¿Quién fue el campeón del mundial de Argentina 1978?</que>
+  <ca>Argentina</ca>
+  <ia>Holanda</ia>
+  <ia>Brasil</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuándo se realizó el primer torneo de la copa del mundo?</que>
+  <ca>1930</ca>
+  <ia>1928</ia>
+  <ia>1935</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año NO se jugó la copa?</que>
+  <ca>1942</ca>
+  <ia>1944</ia>
+  <ia>1948</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuántas veces ha sido Brasil el campeón?</que>
+  <ca>5</ca>
+  <ia>4</ia>
+  <ia>3</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuántas veces ha sido Italia el campeón?</que>
+  <ca>4</ca>
+  <ia>3</ia>
+  <ia>2</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuántas veces ha sido Alemania el campeón?</que>
+  <ca>3</ca>
+  <ia>2</ia>
+  <ia>4</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuántas veces ha sido Inglaterra el campeón?</que>
+  <ca>1</ca>
+  <ia>2</ia>
+  <ia>0</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año fue fundada la FIFA?</que>
+  <ca>1904</ca>
+  <ia>1916</ia>
+  <ia>1920</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuándo se entregó por última vez la Copa Jules Rimet?</que>
+  <ca>1970</ca>
+  <ia>1960</ia>
+  <ia>1980</ia>
+ </quiz>
+ <quiz>
+  <que>¿A quién fue entregada definitivamente la Copa Jules Rimet?</que>
+  <ca>Brasil</ca>
+  <ia>Argentina</ia>
+  <ia>Uruguay</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cómo se llama el estadio donde se jugó la final de la primera Copa del Mundo?</que>
+  <ca>Estadio Centenario</ca>
+  <ia>Estadio de Montevideo</ia>
+  <ia>Estadio de la Intendencia</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál fue el primer país en lograr el bicampeonato?</que>
+  <ca>Italia</ca>
+  <ia>Brasil</ia>
+  <ia>Alemania</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año ocurrió el famoso Maracanazo?</que>
+  <ca>1950</ca>
+  <ia>1954</ia>
+  <ia>1940</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año ocurrió el famoso Milagro de Berna?</que>
+  <ca>1954</ca>
+  <ia>1950</ia>
+  <ia>1958</ia>
+ </quiz>
+ <quiz>
+  <que>¿En que año fue el primer mundial de fútbol transmitido en televisión?</que>
+  <ca>1958</ca>
+  <ia>1962</ia>
+  <ia>1966</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año Brasil logra su primer campeonato?</que>
+  <ca>1958</ca>
+  <ia>1962</ia>
+  <ia>1954</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año se presentó por primera vez una mascota?</que>
+  <ca>1966</ca>
+  <ia>1970</ia>
+  <ia>1962</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuándo se realizó la primera tanda de penales en un mundial?</que>
+  <ca>1982</ca>
+  <ia>1986</ia>
+  <ia>1978</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año juega Maradona su primer mundial?</que>
+  <ca>México 86</ca>
+  <ia>España 82</ia>
+  <ia>Italia 90</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año juega Pelé su primer mundial?</que>
+  <ca>1958</ca>
+  <ia>1962</ia>
+  <ia>1954</ia>
+ </quiz>
+ <quiz>
+  <que>¿En cual mundial Maradona anota el gol con la "Mano de Dios"?</que>
+  <ca>México 86</ca>
+  <ia>España 82</ia>
+  <ia>Italia 90</ia>
+ </quiz>
+ <quiz>
+  <que>¿Qué final de un mundial se definió por primera vez en penales?</que>
+  <ca>USA 94</ca>
+  <ia>Italia 90</ia>
+  <ia>México 86</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año juega Zidane su primer mundial?</que>
+  <ca>Francia 98</ca>
+  <ia>USA 94</ia>
+  <ia>Italia 90</ia>
+ </quiz>
+ <quiz>
+ <quiz>
+  <que>¿En que año se realiza por primera vez el mundial en Asia?</que>
+  <ca>2002</ca>
+  <ia>1998</ia>
+  <ia>2006</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año juega Ronaldinho su primer mundial?</que>
+  <ca>Corea Japón 2002</ca>
+  <ia>Francia 1998</ia>
+  <ia>Alemania 2006</ia>
+ </quiz>
+ <quiz>
+  <que>¿Dónde se realizará el mundial en 2018?</que>
+  <ca>Rusia</ca>
+  <ia>Croacia</ia>
+  <ia>Italia</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué país se disputó el mundial de 2006?</que>
+  <ca>Alemania</ca>
+  <ia>Italia</ia>
+  <ia>Francia</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué país se disputó el mundial de 1994?</que>
+  <ca>USA</ca>
+  <ia>Brasil</ia>
+  <ia>Italia</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué país se disputó el mundial de 1978?</que>
+  <ca>Argentina</ca>
+  <ia>Brasil</ia>
+  <ia>Uruguay</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué país se disputó el mundial de 1986?</que>
+  <ca>México</ca>
+  <ia>Argentina</ia>
+  <ia>Uruguay</ia>
+ </quiz>
+ <quiz>
+  <que>¿Quién fue el campeón de la copa disputada en Chile en 1962?</que>
+  <ca>Brasil</ca>
+  <ia>Inglaterra</ia>
+  <ia>Checoslovaquia</ia>
+ </quiz>
+<quiz>
+  <que>¿Quién fue el campeón de la copa disputada en Alemania Federal en 1974?</que>
+  <ca>Alemania Federal</ca>
+  <ia>Inglaterra</ia>
+  <ia>Polonia</ia>
+ </quiz>
+ <quiz>
+  <que>¿Quién fue el campeón de la copa disputada en México en 1986?</que>
+  <ca>Argentina</ca>
+  <ia>Alemania</ia>
+  <ia>Brasil</ia>
+ </quiz>
+ <quiz>
+  <que>¿Quién fue el campeón de la copa disputada en Alemania en 2006?</que>
+  <ca>Italia</ca>
+  <ia>Francia</ia>
+  <ia>Alemania</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año Italia logra su primer campeonato?</que>
+  <ca>1934</ca>
+  <ia>1954</ia>
+  <ia>1950</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año Argentina logra su primer campeonato?</que>
+  <ca>1978</ca>
+  <ia>1982</ia>
+  <ia>1974</ia>
+ </quiz>
+ <quiz>
+  <que>Ronaldo es el jugador que más goles ha marcado en las copas del mundo, cuántos son?</que>
+  <ca>15</ca>
+  <ia>12</ia>
+  <ia>16</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál de estos jugadores ganó el Botín de Oro?</que>
+  <ca>Miroslav Klose</ca>
+  <ia>Ronaldinho</ia>
+  <ia>Michael Platini</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál de estos jugadores ganó el Balón de Oro?</que>
+  <ca>Oliver Kahn</ca>
+  <ia>Andrea Pirlo</ia>
+  <ia>Zinedine Zidane</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál de estos jugadores ganó el Guante de Oro?</que>
+  <ca>Gianluigi Buffon</ca>
+  <ia>Júlio César</ia>
+  <ia>Hugo Lloris</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál de estos jugadores ganó el premio al Mejor Jugador Joven?</que>
+  <ca>Thomas Müller</ca>
+  <ia>Diego Forlán</ia>
+  <ia>Arjen Robben</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Sergio Agüero?</que>
+  <ca>Argentina</ca>
+  <ia>Chile</ia>
+  <ia>Uruguay</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Mesut Özil?</que>
+  <ca>Alemania</ca>
+  <ia>Holanda</ia>
+  <ia>Francia</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Robin van Persie?</que>
+  <ca>Holanda</ca>
+  <ia>Inglaterra</ia>
+  <ia>Alemania</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Cesc Fábregas?</que>
+  <ca>España</ca>
+  <ia>Portugal</ia>
+  <ia>Francia</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Andrea Pirlo?</que>
+  <ca>Italia</ca>
+  <ia>Francia</ia>
+  <ia>España</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Thiago Silva?</que>
+  <ca>Brasil</ca>
+  <ia>Portugal</ia>
+  <ia>Chile</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con cuál equipo juega Arturo Vidal?</que>
+  <ca>Chile</ca>
+  <ia>Argentina</ia>
+  <ia>Uruguay</ia>
+ </quiz>
+ <quiz>
+  <que>¿A que mundial pertenece la mascota Striker?</que>
+  <ca>USA 1994</ca>
+  <ia>Francia 1998</ia>
+  <ia>Italia 1990</ia>
+ </quiz>
+ <quiz>
+  <que>¿A que mundial pertenece la mascota Zakumi?</que>
+  <ca>Sudáfrica 2010</ca>
+  <ia>Corea-Japón 2002</ia>
+  <ia>Alemania 2006</ia>
+ </quiz>
+ <quiz>
+  <que>¿A que mundial pertenece la mascota Footix?</que>
+  <ca>Francia 1998</ca>
+  <ia>Sudáfrica 2010</ia>
+  <ia>Brasil 2014</ia>
+ </quiz>
+ <quiz>
+  <que>¿A que mundial pertenece el balón Etrusco Único?</que>
+  <ca>Italia 1990</ca>
+  <ia>USA 1994</ia>
+  <ia>Alemania 2006</ia>
+ </quiz>
+ <quiz>
+  <que>¿A que mundial pertenece el balón Questra?</que>
+  <ca>USA 1994</ca>
+  <ia>Francia 1998</ia>
+  <ia>Italia 1990</ia>
+ </quiz>
+ <quiz>
+  <que>¿A que mundial pertenece el balón Fevernova?</que>
+  <ca>Corea-Japón 2002</ca>
+  <ia>Sudáfrica 2010</ia>
+  <ia>Alemania 2006</ia>
+ </quiz>
+ <quiz>
+  <que>¿Qué porcentaje de los jugadores que participan en el mundial juegan en ligas europeas?</que>
+  <ca>75%</ca>
+  <ia>60%</ia>
+  <ia>90%</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál de estas selecciones caribeñas fue la primera en la historia en participar en una Copa Mundial?</que>
+  <ca>Cuba</ca>
+  <ia>República Dominicana</ia>
+  <ia>Haití</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué año debutó USA en la Copa Mundial?</que>
+  <ca>1930</ca>
+  <ia>1934</ia>
+  <ia>1950</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál fue la primera selección asiática en jugar una Copa Mundial?</que>
+  <ca>Indonesia</ca>
+  <ia>Corea del Sur</ia>
+  <ia>Japón</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál fue el primer triunfo de una selección asiática en una Copa Mundial?</que>
+  <ca>Corea del Norte (Inglaterra 1966)</ca>
+  <ia>Japón (Argentina 1978)</ia>
+  <ia>Corea del Sur (España 1982)</ia>
+ </quiz>
+ <quiz>
+  <que>¿En qué Mundial debutó la selección de Costa Rica?</que>
+  <ca>Italia 1990</ca>
+  <ia>USA 1994</ia>
+  <ia>Francia 1998</ia>
+ </quiz>
+ <quiz>
+  <que>¿Quién fue el presidente de la FIFA antes de Joseph Blatter?</que>
+  <ca>João Havelange</ca>
+  <ia>Stanley Rous</ia>
+  <ia>Arthur Drewry</ia>
+ </quiz>
+ <quiz>
+  <que>¿Dónde queda la sede de la FIFA?</que>
+  <ca>Suiza</ca>
+  <ia>Bélgica</ia>
+  <ia>Inglaterra</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con qué edad marcó Roger Milla su último gol en Copas del Mundo?</que>
+  <ca>42 años</ca>
+  <ia>37 años</ia>
+  <ia>39 años</ia>
+ </quiz>
+ <quiz>
+  <que>¿Con qué edad ganó Dino Zoff el mundial de España 1982?</que>
+  <ca>41 años</ca>
+  <ia>45 años</ia>
+  <ia>39 años</ia>
+ </quiz>
+ <quiz>
+  <que>Lothar Matthaus ostenta el récord del mayor número de participaciones en Copas del Mundo, cuántas fueron?</que>
+  <ca>25 apariciones</ca>
+  <ia>18 apariciones</ia>
+  <ia>19 apariciones</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál es el nombre del estadio de Sao Paulo?</que>
+  <ca>Arena de Sao Paulo</ca>
+  <ia>Arena da Amazonia</ia>
+  <ia>Estadio Castelao</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuál es el nombre del estadio de Río de Janeiro?</que>
+  <ca>Estadio Maracana</ca>
+  <ia>Estadio das Dunas</ia>
+  <ia>Estadio Beira-Rio</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cuántos estadios se usarán para la Copa del Mundo de Brasil?</que>
+  <ca>12 estadios</ca>
+  <ia>14 estadios</ia>
+  <ia>16 estadios</ia>
+ </quiz>
+ <quiz>
+  <que>¿Que animal aparece en el escudo de la selección de Francia?</que>
+  <ca>Gallo</ca>
+  <ia>León</ia>
+  <ia>Tigre</ia>
+ </quiz>
+ <quiz>
+  <que>¿Que animal aparece en el escudo de la selección de México?</que>
+  <ca>Aguila</ca>
+  <ia>León</ia>
+  <ia>Condor</ia>
+ </quiz>
+ <quiz>
+  <que>¿Que animal aparece en el escudo de la selección de Costa de Marfil?</que>
+  <ca>Elefante</ca>
+  <ia>León</ia>
+  <ia>Rinoceronte</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cómo se llama el director técnico de Brasil?</que>
+  <ca>Luiz Felipe Scolari</ca>
+  <ia>Mano Menezes</ia>
+  <ia>Carlos Alberto Parreira</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cómo se llama el director técnico de España?</que>
+  <ca>Vicente del Bosque</ca>
+  <ia>Luis Aragonés</ia>
+  <ia>Luis García</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cómo se llama el director técnico de Argentina?</que>
+  <ca>Alejandro Sabella</ca>
+  <ia>José Pekerman</ia>
+  <ia>Alfio Basile</ia>
+ </quiz>
+ <quiz>
+  <que>¿Cómo se llama el director técnico de Italia?</que>
+  <ca>Cesare Prandelli</ca>
+  <ia>Roberto Donadoni</ia>
+  <ia>Marcelo Lippi</ia>
+ </quiz></trivia>

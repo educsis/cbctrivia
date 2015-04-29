@@ -1,0 +1,604 @@
+{
+    "quiz": [
+      {
+        "que": "¿Quién fue el campeón del mundial de Argentina 1978?",
+        "ca": "Argentina",
+        "ia": [
+          "Holanda",
+          "Brasil"
+        ]
+      },
+      {
+        "que": "¿Cuándo se realizó el primer torneo de la copa del mundo?",
+        "ca": "1930",
+        "ia": [
+          "1928",
+          "1935"
+        ]
+      },
+      {
+        "que": "¿En qué año NO se jugó la copa?",
+        "ca": "1942",
+        "ia": [
+          "1944",
+          "1948"
+        ]
+      },
+      {
+        "que": "¿Cuántas veces ha sido Brasil el campeón?",
+        "ca": "5",
+        "ia": [
+          "4",
+          "3"
+        ]
+      },
+      {
+        "que": "¿Cuántas veces ha sido Italia el campeón?",
+        "ca": "4",
+        "ia": [
+          "3",
+          "2"
+        ]
+      },
+      {
+        "que": "¿Cuántas veces ha sido Alemania el campeón?",
+        "ca": "3",
+        "ia": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "que": "¿Cuántas veces ha sido Inglaterra el campeón?",
+        "ca": "1",
+        "ia": [
+          "2",
+          "0"
+        ]
+      },
+      {
+        "que": "¿En qué año fue fundada la FIFA?",
+        "ca": "1904",
+        "ia": [
+          "1916",
+          "1920"
+        ]
+      },
+      {
+        "que": "¿Cuándo se entregó por última vez la Copa Jules Rimet?",
+        "ca": "1970",
+        "ia": [
+          "1960",
+          "1980"
+        ]
+      },
+      {
+        "que": "¿A quién fue entregada definitivamente la Copa Jules Rimet?",
+        "ca": "Brasil",
+        "ia": [
+          "Argentina",
+          "Uruguay"
+        ]
+      },
+      {
+        "que": "¿Cómo se llama el estadio donde se jugó la final de la primera Copa del Mundo?",
+        "ca": "Estadio Centenario",
+        "ia": [
+          "Estadio de Montevideo",
+          "Estadio de la Intendencia"
+        ]
+      },
+      {
+        "que": "¿Cuál fue el primer país en lograr el bicampeonato?",
+        "ca": "Italia",
+        "ia": [
+          "Brasil",
+          "Alemania"
+        ]
+      },
+      {
+        "que": "¿En qué año ocurrió el famoso Maracanazo?",
+        "ca": "1950",
+        "ia": [
+          "1954",
+          "1940"
+        ]
+      },
+      {
+        "que": "¿En qué año ocurrió el famoso Milagro de Berna?",
+        "ca": "1954",
+        "ia": [
+          "1950",
+          "1958"
+        ]
+      },
+      {
+        "que": "¿En que año fue el primer mundial de fútbol transmitido en televisión?",
+        "ca": "1958",
+        "ia": [
+          "1962",
+          "1966"
+        ]
+      },
+      {
+        "que": "¿En qué año Brasil logra su primer campeonato?",
+        "ca": "1958",
+        "ia": [
+          "1962",
+          "1954"
+        ]
+      },
+      {
+        "que": "¿En qué año se presentó por primera vez una mascota?",
+        "ca": "1966",
+        "ia": [
+          "1970",
+          "1962"
+        ]
+      },
+      {
+        "que": "¿Cuándo se realizó la primera tanda de penales en un mundial?",
+        "ca": "1982",
+        "ia": [
+          "1986",
+          "1978"
+        ]
+      },
+      {
+        "que": "¿En qué año juega Maradona su primer mundial?",
+        "ca": "México 86",
+        "ia": [
+          "España 82",
+          "Italia 90"
+        ]
+      },
+      {
+        "que": "¿En qué año juega Pelé su primer mundial?",
+        "ca": "1958",
+        "ia": [
+          "1962",
+          "1954"
+        ]
+      },
+      {
+        "que": "¿En cual mundial Maradona anota el gol con la \"Mano de Dios\"?",
+        "ca": "México 86",
+        "ia": [
+          "España 82",
+          "Italia 90"
+        ]
+      },
+      {
+        "que": "¿Qué final de un mundial se definió por primera vez en penales?",
+        "ca": "USA 94",
+        "ia": [
+          "Italia 90",
+          "México 86"
+        ]
+      },
+      {
+        "que": "¿En qué año juega Zidane su primer mundial?",
+        "ca": "Francia 98",
+        "ia": [
+          "USA 94",
+          "Italia 90"
+        ]
+      },
+      {
+        "que": "¿En que año se realiza por primera vez el mundial en Asia?",
+        "ca": "2002",
+        "ia": [
+          "1998",
+          "2006"
+        ]
+      },
+      {
+        "que": "¿En qué año juega Ronaldinho su primer mundial?",
+        "ca": "Corea Japón 2002",
+        "ia": [
+          "Francia 1998",
+          "Alemania 2006"
+        ]
+      },
+      {
+        "que": "¿Dónde se realizará el mundial en 2018?",
+        "ca": "Rusia",
+        "ia": [
+          "Croacia",
+          "Italia"
+        ]
+      },
+      {
+        "que": "¿En qué país se disputó el mundial de 2006?",
+        "ca": "Alemania",
+        "ia": [
+          "Italia",
+          "Francia"
+        ]
+      },
+      {
+        "que": "¿En qué país se disputó el mundial de 1994?",
+        "ca": "USA",
+        "ia": [
+          "Brasil",
+          "Italia"
+        ]
+      },
+      {
+        "que": "¿En qué país se disputó el mundial de 1978?",
+        "ca": "Argentina",
+        "ia": [
+          "Brasil",
+          "Uruguay"
+        ]
+      },
+      {
+        "que": "¿En qué país se disputó el mundial de 1986?",
+        "ca": "México",
+        "ia": [
+          "Argentina",
+          "Uruguay"
+        ]
+      },
+      {
+        "que": "¿Quién fue el campeón de la copa disputada en Chile en 1962?",
+        "ca": "Brasil",
+        "ia": [
+          "Inglaterra",
+          "Checoslovaquia"
+        ]
+      },
+      {
+        "que": "¿Quién fue el campeón de la copa disputada en Alemania Federal en 1974?",
+        "ca": "Alemania Federal",
+        "ia": [
+          "Inglaterra",
+          "Polonia"
+        ]
+      },
+      {
+        "que": "¿Quién fue el campeón de la copa disputada en México en 1986?",
+        "ca": "Argentina",
+        "ia": [
+          "Alemania",
+          "Brasil"
+        ]
+      },
+      {
+        "que": "¿Quién fue el campeón de la copa disputada en Alemania en 2006?",
+        "ca": "Italia",
+        "ia": [
+          "Francia",
+          "Alemania"
+        ]
+      },
+      {
+        "que": "¿En qué año Italia logra su primer campeonato?",
+        "ca": "1934",
+        "ia": [
+          "1954",
+          "1950"
+        ]
+      },
+      {
+        "que": "¿En qué año Argentina logra su primer campeonato?",
+        "ca": "1978",
+        "ia": [
+          "1982",
+          "1974"
+        ]
+      },
+      {
+        "que": "Ronaldo es el jugador que más goles ha marcado en las copas del mundo, cuántos son?",
+        "ca": "15",
+        "ia": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "que": "¿Cuál de estos jugadores ganó el Botín de Oro?",
+        "ca": "Miroslav Klose",
+        "ia": [
+          "Ronaldinho",
+          "Michael Platini"
+        ]
+      },
+      {
+        "que": "¿Cuál de estos jugadores ganó el Balón de Oro?",
+        "ca": "Oliver Kahn",
+        "ia": [
+          "Andrea Pirlo",
+          "Zinedine Zidane"
+        ]
+      },
+      {
+        "que": "¿Cuál de estos jugadores ganó el Guante de Oro?",
+        "ca": "Gianluigi Buffon",
+        "ia": [
+          "Júlio César",
+          "Hugo Lloris"
+        ]
+      },
+      {
+        "que": "¿Cuál de estos jugadores ganó el premio al Mejor Jugador Joven?",
+        "ca": "Thomas Müller",
+        "ia": [
+          "Diego Forlán",
+          "Arjen Robben"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Sergio Agüero?",
+        "ca": "Argentina",
+        "ia": [
+          "Chile",
+          "Uruguay"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Mesut Özil?",
+        "ca": "Alemania",
+        "ia": [
+          "Holanda",
+          "Francia"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Robin van Persie?",
+        "ca": "Holanda",
+        "ia": [
+          "Inglaterra",
+          "Alemania"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Cesc Fábregas?",
+        "ca": "España",
+        "ia": [
+          "Portugal",
+          "Francia"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Andrea Pirlo?",
+        "ca": "Italia",
+        "ia": [
+          "Francia",
+          "España"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Thiago Silva?",
+        "ca": "Brasil",
+        "ia": [
+          "Portugal",
+          "Chile"
+        ]
+      },
+      {
+        "que": "¿Con cuál equipo juega Arturo Vidal?",
+        "ca": "Chile",
+        "ia": [
+          "Argentina",
+          "Uruguay"
+        ]
+      },
+      {
+        "que": "¿A que mundial pertenece la mascota Striker?",
+        "ca": "USA 1994",
+        "ia": [
+          "Francia 1998",
+          "Italia 1990"
+        ]
+      },
+      {
+        "que": "¿A que mundial pertenece la mascota Zakumi?",
+        "ca": "Sudáfrica 2010",
+        "ia": [
+          "Corea-Japón 2002",
+          "Alemania 2006"
+        ]
+      },
+      {
+        "que": "¿A que mundial pertenece la mascota Footix?",
+        "ca": "Francia 1998",
+        "ia": [
+          "Sudáfrica 2010",
+          "Brasil 2014"
+        ]
+      },
+      {
+        "que": "¿A que mundial pertenece el balón Etrusco Único?",
+        "ca": "Italia 1990",
+        "ia": [
+          "USA 1994",
+          "Alemania 2006"
+        ]
+      },
+      {
+        "que": "¿A que mundial pertenece el balón Questra?",
+        "ca": "USA 1994",
+        "ia": [
+          "Francia 1998",
+          "Italia 1990"
+        ]
+      },
+      {
+        "que": "¿A que mundial pertenece el balón Fevernova?",
+        "ca": "Corea-Japón 2002",
+        "ia": [
+          "Sudáfrica 2010",
+          "Alemania 2006"
+        ]
+      },
+      {
+        "que": "¿Qué porcentaje de los jugadores que participan en el mundial juegan en ligas europeas?",
+        "ca": "75%",
+        "ia": [
+          "60%",
+          "90%"
+        ]
+      },
+      {
+        "que": "¿Cuál de estas selecciones caribeñas fue la primera en la historia en participar en una Copa Mundial?",
+        "ca": "Cuba",
+        "ia": [
+          "República Dominicana",
+          "Haití"
+        ]
+      },
+      {
+        "que": "¿En qué año debutó USA en la Copa Mundial?",
+        "ca": "1930",
+        "ia": [
+          "1934",
+          "1950"
+        ]
+      },
+      {
+        "que": "¿Cuál fue la primera selección asiática en jugar una Copa Mundial?",
+        "ca": "Indonesia",
+        "ia": [
+          "Corea del Sur",
+          "Japón"
+        ]
+      },
+      {
+        "que": "¿Cuál fue el primer triunfo de una selección asiática en una Copa Mundial?",
+        "ca": "Corea del Norte (Inglaterra 1966)",
+        "ia": [
+          "Japón (Argentina 1978)",
+          "Corea del Sur (España 1982)"
+        ]
+      },
+      {
+        "que": "¿En qué Mundial debutó la selección de Costa Rica?",
+        "ca": "Italia 1990",
+        "ia": [
+          "USA 1994",
+          "Francia 1998"
+        ]
+      },
+      {
+        "que": "¿Quién fue el presidente de la FIFA antes de Joseph Blatter?",
+        "ca": "João Havelange",
+        "ia": [
+          "Stanley Rous",
+          "Arthur Drewry"
+        ]
+      },
+      {
+        "que": "¿Dónde queda la sede de la FIFA?",
+        "ca": "Suiza",
+        "ia": [
+          "Bélgica",
+          "Inglaterra"
+        ]
+      },
+      {
+        "que": "¿Con qué edad marcó Roger Milla su último gol en Copas del Mundo?",
+        "ca": "42 años",
+        "ia": [
+          "37 años",
+          "39 años"
+        ]
+      },
+      {
+        "que": "¿Con qué edad ganó Dino Zoff el mundial de España 1982?",
+        "ca": "41 años",
+        "ia": [
+          "45 años",
+          "39 años"
+        ]
+      },
+      {
+        "que": "Lothar Matthaus ostenta el récord del mayor número de participaciones en Copas del Mundo, cuántas fueron?",
+        "ca": "25 apariciones",
+        "ia": [
+          "18 apariciones",
+          "19 apariciones"
+        ]
+      },
+      {
+        "que": "¿Cuál es el nombre del estadio de Sao Paulo?",
+        "ca": "Arena de Sao Paulo",
+        "ia": [
+          "Arena da Amazonia",
+          "Estadio Castelao"
+        ]
+      },
+      {
+        "que": "¿Cuál es el nombre del estadio de Río de Janeiro?",
+        "ca": "Estadio Maracana",
+        "ia": [
+          "Estadio das Dunas",
+          "Estadio Beira-Rio"
+        ]
+      },
+      {
+        "que": "¿Cuántos estadios se usarán para la Copa del Mundo de Brasil?",
+        "ca": "12 estadios",
+        "ia": [
+          "14 estadios",
+          "16 estadios"
+        ]
+      },
+      {
+        "que": "¿Que animal aparece en el escudo de la selección de Francia?",
+        "ca": "Gallo",
+        "ia": [
+          "León",
+          "Tigre"
+        ]
+      },
+      {
+        "que": "¿Que animal aparece en el escudo de la selección de México?",
+        "ca": "Aguila",
+        "ia": [
+          "León",
+          "Condor"
+        ]
+      },
+      {
+        "que": "¿Que animal aparece en el escudo de la selección de Costa de Marfil?",
+        "ca": "Elefante",
+        "ia": [
+          "León",
+          "Rinoceronte"
+        ]
+      },
+      {
+        "que": "¿Cómo se llama el director técnico de Brasil?",
+        "ca": "Luiz Felipe Scolari",
+        "ia": [
+          "Mano Menezes",
+          "Carlos Alberto Parreira"
+        ]
+      },
+      {
+        "que": "¿Cómo se llama el director técnico de España?",
+        "ca": "Vicente del Bosque",
+        "ia": [
+          "Luis Aragonés",
+          "Luis García"
+        ]
+      },
+      {
+        "que": "¿Cómo se llama el director técnico de Argentina?",
+        "ca": "Alejandro Sabella",
+        "ia": [
+          "José Pekerman",
+          "Alfio Basile"
+        ]
+      },
+      {
+        "que": "¿Cómo se llama el director técnico de Italia?",
+        "ca": "Cesare Prandelli",
+        "ia": [
+          "Roberto Donadoni",
+          "Marcelo Lippi"
+        ]
+      }
+    ]
+  }
